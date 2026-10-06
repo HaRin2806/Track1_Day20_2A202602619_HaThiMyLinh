@@ -4,16 +4,14 @@
 
 - **Họ tên:** Hà Thị Mỹ Linh · **MHV:** 2A202602619
 - **Dự án chọn làm:** **AI Agent Trợ Lý Dinh Dưỡng & Lối Sống Theo Bệnh Lý**, dự án team build phase. Mình phụ trách NLP (RAG guideline, parser câu tiếng Việt) + BA (ràng buộc lâm sàng theo bệnh) + docs/eval/presentation.
-- **Link tệp Metrics Pack (đã cấp quyền xem):** https://htmlpreview.github.io/?https://github.com/HaRin2806/Track1_Day20_2A202602619_HaThiMyLinh/blob/main/metrics-pack.html
-  - Repo công khai, ai có link cũng xem được, không cần đăng nhập. File gốc: [metrics-pack.html](metrics-pack.html)
+- **Link tệp Metrics Pack (đã cấp quyền xem):** https://claude.ai/artifact/FEMjTJLfRQbExUVagiH92h
 
 **Cấu trúc repo**
 
 ```
 Track1_Day20_2A202602619_HaThiMyLinh/
 ├── README.md
-├── ai-support-log.md
-└── metrics-pack.html
+└── ai-support-log.md
 ```
 
 ---
