@@ -20,7 +20,11 @@
 
 ## Tôi đã tự sửa hoặc quyết định lại điều gì?
 
-*(Linh tự viết)*
+- Gỡ toàn bộ bản Metrics Pack do AI tự viết, tự làm lại từng phase: mọi quyết định lõi (core action, cadence, metric, metric hypothesis) do mình chọn từng vế.
+- Làm rõ persona: không bỏ người bệnh, chỉ đặt người nấu lên ưu tiên vì số lượng đứng đầu trong khảo sát.
+- Tự viết khung thời gian của metric hypothesis: 2 tuần cho đợt báo cáo hiện tại, theo dõi đến 4 tuần.
+
+> Ghi chú: các mục trên và phần "Điều tôi mang về" trong README do AI đưa lựa chọn ngắn, mình chọn; AI viết thành câu.
 
 ---
 
